@@ -1,0 +1,32 @@
+[
+  {
+    "email": "john.doe@example.com",
+    "name": "John Doe",
+    "id": "12",
+    "is_active": "True"
+  },
+  {
+    "email": "jane.smith@example.com",
+    "name": "Jane Smith",
+    "id": "13",
+    "is_active": "False"
+  },
+  {
+    "email": "alice.johnson@example.com",
+    "name": "Alice Johnson",
+    "id": "14",
+    "is_active": "True"
+  },
+  {
+    "email": "bob.brown@example.com",
+    "name": "Bob Brown",
+    "id": "15",
+    "is_active": "False"
+  },
+  {
+    "email": "charlie.davis@example.com",
+    "name": "Charlie Davis",
+    "id": "16",
+    "is_active": "True"
+  }
+]
